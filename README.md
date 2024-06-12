@@ -1,4 +1,4 @@
-# BasicESP32WebSensor
+# Basic Feather WebSensor
 Adafruit M0 Feather and 128x64 OLED Feather Wing 
 
 M0 Feather -> https://www.adafruit.com/product/3044
