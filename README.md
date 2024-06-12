@@ -1,9 +1,13 @@
 # Basic Feather WebSensor
 Adafruit M0 Feather and 128x64 OLED Feather Wing 
 
+Uses BME680 to demonstrate how a sensor is implmented. 
+
 M0 Feather -> https://www.adafruit.com/product/3044
 
 OLED  -> https://www.adafruit.com/product/4650
+
+BME680 -> https://www.adafruit.com/product/3660
 
 Basic Functionality
 
